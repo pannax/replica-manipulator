@@ -30,4 +30,4 @@
     *   ├── [assemblies](mechanical/assemblies) — Manipulator assemblies.
     *   ├── [fabrication](mechanical/fabrication) — CNC drawings.
     *   └── [parts](mechanical/parts) — 3D printing parts.
-*   **[media](media)** — Media files (photos and GIFs)
+*   **[media](media)** — Media files 
