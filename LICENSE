@@ -1,0 +1,38 @@
+Replica Project License (Software & Hardware)
+Version 1.1, 2026
+Copyright (c) 2026 Vladimir Korovin (https://github.com/pannax/replica-manipulator)
+
+1. DEFINITIONS
+"Project Materials" means all files and works provided by the Licensor under this License, including without limitation: (a) firmware, source code, object code, and binary files ("Software"); and (b) hardware schematics, PCB layouts (Gerber, KiCad, etc.), 3D models (STL, STEP, CAD files), mechanical drawings, bills of materials (BOM), and documentation ("Hardware Designs").
+"Physical Product" means any physical device, circuit board, mechanical part, or assembly manufactured, 3D-printed, or built using the Hardware Designs, whether or not running the Software.
+"Licensor" means the copyright owner, Vladimir Korovin.
+"You" (or "Your") means an individual or legal entity exercising permissions granted by this License.
+"Commercial Purpose" means any activity primarily intended for or directed toward commercial advantage or monetary compensation, including, without limitation:
+(a) selling, leasing, renting, or distributing Physical Products (such as assembled devices, PCBs, or 3D-printed/machined mechanical parts);
+(b) selling, licensing, or monetizing the Project Materials themselves; or
+(c) providing paid assembly, 3D-printing, installation, customization, support, or SaaS/cloud services based on the Project Materials.
+"Derivative Work" means any modified software, modified CAD model, revised PCB layout, or adaptation based upon the Project Materials.
+
+2. GRANT OF NON-COMMERCIAL LICENSE
+Subject to the terms and conditions of this License, the Licensor hereby grants You a worldwide, royalty-free, non-exclusive, revocable (upon breach) license to use, reproduce, study, modify, build Physical Products from (including having Physical Products manufactured by third-party fabrication services solely for Your own non-commercial use), and distribute the Project Materials and Derivative Works solely for personal, educational, academic, or non-profit hobbyist purposes.
+
+3. RESTRICTIONS (NO COMMERCIAL USE)
+You may NOT use, reproduce, modify, fabricate Physical Products from, or distribute the Project Materials or any Derivative Works for any Commercial Purpose without obtaining a separate, prior written commercial license agreement from the Licensor.
+
+4. CONDITIONS FOR DISTRIBUTION (SHARE-ALIKE & SOURCE AVAILABILITY)
+If You distribute or make available the Project Materials, Derivative Works, or Physical Products to any third party, You must meet all of the following conditions:
+(a) Attribution: You must retain all copyright, patent, trademark, and attribution notices from the original Project Materials, including the name of the Licensor (Vladimir Korovin) and a link to the original repository.
+(b) Copyleft: You must license the entire Derivative Work as a whole under terms identical to this License, without adding any further restrictions on the rights granted herein.
+(c) Source Availability: If You distribute compiled Software (including flashed onto a microcontroller) or Physical Products built from Hardware Designs, You must accompany them with the complete corresponding source code and design files (in the formats provided by the Licensor, plus editable native CAD/EDA files for any Derivative Works) or provide a clear, accessible link to obtain them at no charge.
+
+5. NO PATENT LICENSE
+This License does not grant any rights or licenses under any patents or industrial design rights owned or controlled by the Licensor, except to the extent strictly necessary to exercise the non-commercial rights expressly granted in Section 2.
+
+6. DISCLAIMER OF WARRANTY
+THE PROJECT MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SAFETY, AND NONINFRINGEMENT. THE ENTIRE RISK AS TO THE QUALITY, STRUCTURAL INTEGRITY, ELECTRICAL SAFETY, AND PERFORMANCE OF ANY PHYSICAL PRODUCT OR SOFTWARE IS WITH YOU.
+
+7. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, HARDWARE BRICKING, ELECTRICAL FAILURE, MECHANICAL BREAKAGE, PROPERTY DAMAGE, PERSONAL INJURY, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE PROJECT MATERIALS OR THE FABRICATION AND USE OF ANY PHYSICAL PRODUCT.
+
+8. COMMERCIAL LICENSING INQUIRIES
+To request a commercial license, please contact the Licensor via GitHub at https://github.com/pannax/replica-manipulator.
